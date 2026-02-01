@@ -1,0 +1,29 @@
+.sidebar {
+    width: 240px;
+    background: #fff;
+    border-right: 1px solid #f4b183;
+}
+
+.menu-item {
+    display: block;
+    padding: 12px;
+    border-radius: 6px;
+    font-weight: 500;
+    color: #4b5563;
+}
+
+.menu-item:hover {
+    background: #fff7ed;
+    color: #d97706;
+}
+
+.orange-gradient {
+    background: linear-gradient(to right, #ea580c, #f59e0b);
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #facc15;
+}
