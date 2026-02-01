@@ -63,6 +63,7 @@ class InternshipController extends Controller
             'status' => 'pending',
         ]);
     
+        
         return back()->with('success', 'Application submitted successfully');
     }
 }
